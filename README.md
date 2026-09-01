@@ -8,15 +8,21 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 
 | Tema | Descripción |
 | --- | --- |
-| [Comprobación de hash](./QuickArch/Hash.md) | Verificar integridad de archivos con MD5 y SHA256 |
-| [Pacman](./QuickArch/Pacman.md) | Comandos esenciales del gestor de paquetes de Arch |
+| [Comprobación de hash](./QuickArch/hash.md) | Verificar integridad de archivos con MD5 y SHA256 |
+| [Pacman](./QuickArch/pacman.md) | Comandos esenciales del gestor de paquetes de Arch |
 
 ### Programas — herramientas y software externo
 
 | Tema | Descripción |
 | --- | --- |
-| [Ventoy](./Programas/Ventoy.md) | Crear y usar un USB de arranque múltiple |
-| [USBGuard](./Programas/Usbguard.md) | Permitir, bloquear y gestionar dispositivos USB |
+| [Ventoy](./Programas/ventoy.md) | Crear y usar un USB de arranque múltiple |
+| [USBGuard](./Programas/usbguard.md) | Permitir, bloquear y gestionar dispositivos USB |
+
+### Nordic — herramientas de Nordic Semiconductor
+
+| Tema | Descripción |
+| --- | --- |
+| [nRF Connect for Desktop](./Nordic/nrfconnectdesktop.md) | Cómo abrir el AppImage |
 
 ## Estructura del repo
 
@@ -26,9 +32,11 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 ├── QuickArch/
 │   ├── hash.md           # MD5 / SHA256
 │   └── pacman.md         # Atajos de pacman
-└── Programas/
-    ├── ventoy.md          # Ventoy
-    └── usbguard.md        # USBGuard
+├── Programas/
+│   ├── ventoy.md          # Ventoy
+│   └── usbguard.md        # USBGuard
+└── Nordic/
+    └── nrfconnectdesktop.md  # nRF Connect for Desktop
 ```
 
 ## Convenciones
