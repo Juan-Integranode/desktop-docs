@@ -22,4 +22,3 @@ Abrir en el navegador: `http://127.0.0.1:24680`
 ### Uso
 
 Tras instalar, se crean dos particiones. Los archivos `.iso` deben copiarse dentro de la partición **Ventoy** (la grande, formateada como exFAT). No hace falta reformatear para agregar o quitar ISOs. 
-```
