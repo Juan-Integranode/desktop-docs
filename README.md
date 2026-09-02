@@ -23,6 +23,7 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 | Tema | Descripción |
 | --- | --- |
 | [nRF Connect for Desktop](./Nordic/nrfconnectdesktop.md) | Cómo abrir el AppImage |
+| [West](./Nordic/west.md) | Comandos de west: update, build y flash |
 
 ### GIT - flujo de trabajo
 
@@ -42,7 +43,8 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 │   ├── ventoy.md          # Ventoy
 │   └── usbguard.md        # USBGuard
 │── Nordic/
-│     └── nrfconnectdesktop.md  # nRF Connect for Desktop
+│      ├── nrfconnectdesktop.md  # nRF Connect for Desktop
+       └── west.md            # Comandos de west
 │ 
 │── Github/
       └── github.md       #git cheat sheet  

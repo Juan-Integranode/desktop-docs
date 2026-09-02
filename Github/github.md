@@ -12,15 +12,15 @@ Flujo de trabajo oficial: **Linear → GitHub**
 **Opción A — Bajar repo existente (recomendado)**
  
 ```bash
-git clone https://github.com/integra-node/integranode-premvp-firmware.git
-cd integranode-premvp-firmware
+git clone https://github.com/integra-node/repo.git
+cd repo
 ```
  
 **Opción B — Iniciar desde código local**
  
 ```bash
 git init
-git remote add origin https://github.com/integra-node/integranode-premvp-firmware.git
+git remote add origin https://github.com/integra-node/repo.git
 ```
  
 **⚠️ Crítico: configurar identidad (correr en ambos casos)**
