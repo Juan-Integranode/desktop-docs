@@ -24,6 +24,12 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 | --- | --- |
 | [nRF Connect for Desktop](./Nordic/nrfconnectdesktop.md) | Cómo abrir el AppImage |
 
+### GIT - flujo de trabajo
+
+| Tema | Descripción |
+| --- | --- |
+| [git cheat sheet](./Github/github.md) | flujo github,linear,commits |
+
 ## Estructura del repo
 
 ```
@@ -35,9 +41,14 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 ├── Programas/
 │   ├── ventoy.md          # Ventoy
 │   └── usbguard.md        # USBGuard
-└── Nordic/
-    └── nrfconnectdesktop.md  # nRF Connect for Desktop
-```
+│── Nordic/
+│     └── nrfconnectdesktop.md  # nRF Connect for Desktop
+│ 
+│── Github/
+      └── github.md       #git cheat sheet  
+
+
+``` 
 
 ## Convenciones
 
