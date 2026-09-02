@@ -25,6 +25,12 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 | [nRF Connect for Desktop](./Nordic/nrfconnectdesktop.md) | Cómo abrir el AppImage |
 | [West](./Nordic/west.md) | Comandos de west: update, build y flash |
 
+### Stm32 — build, flash y debug de proyectos STM32
+ 
+| Tema | Descripción |
+| --- | --- |
+| [CMake](./Stm32/cmake.md) | Presets, build, permisos udev y flash |
+
 ### GIT - flujo de trabajo
 
 | Tema | Descripción |
@@ -44,11 +50,13 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 │   └── usbguard.md        # USBGuard
 │── Nordic/
 │      ├── nrfconnectdesktop.md  # nRF Connect for Desktop
-       └── west.md            # Comandos de west
+│       └── west.md            # Comandos de west
 │ 
 │── Github/
-      └── github.md       #git cheat sheet  
-
+│      └── github.md       #git cheat sheet  
+│      
+└── Stm32/
+    └── cmake.md           # CMake: build, udev y flash
 
 ``` 
 
