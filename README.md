@@ -60,13 +60,6 @@ Colección personal de comandos, atajos y notas rápidas para Arch Linux y otros
 - Los comandos van siempre en bloques de código con el lenguaje especificado (` ```bash `).
 - Los valores a reemplazar (hashes, versiones, dispositivos) se marcan en `MAYÚSCULAS_CON_GUION_BAJO`, por ejemplo `HASH_CONOCIDO` o `/dev/sdX`.
 
-## Contribuir
-
-Este repo es principalmente para uso y consulta personal, pero si encontrás un error o querés sugerir un atajo:
-
-1. Abrí un issue describiendo el cambio o la corrección.
-2. O mandá un pull request siguiendo las mismas convenciones del resto del repo.
-
 ---
 
 *Última actualización: ver historial de commits.*
