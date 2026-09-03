@@ -123,6 +123,17 @@ cat /root/.ssh/id_ed25519.pub
  
 > Si estás en tu terminal local, fuera del contenedor, usá: `cat ~/.ssh/id_ed25519.pub`
  
+iniciar agente 
+
+```bash
+eval "$(ssh-agent -s)"
+```
+
+Agregar clave publica a la memoria 
+```bash
+ssh-add ~/.ssh/id_ed25519_github
+```
+
 ---
  
 ## 🚨 Salvavidas / Modificar historial
